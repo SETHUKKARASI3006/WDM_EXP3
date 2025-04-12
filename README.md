@@ -174,3 +174,4 @@ display_patterns_table(party_wear_result, 'Party Wear')
 <br>
 
 ### Result:
+Thus, GSP algorithm is implemented in python successfully.
